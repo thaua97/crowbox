@@ -9,7 +9,7 @@ import Dropzone from 'react-dropzone'
 import { MdInsertDriveFile } from 'react-icons/md'
 
 import './styles.css';
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/Crowbox.svg'
 
 
 export default class Box extends Component {
